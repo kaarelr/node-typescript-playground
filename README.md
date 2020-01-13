@@ -29,16 +29,9 @@ To start, just click the **[Use template][repo-template-action]** link (or the g
 or clone the repository with following commands:
 
 ```sh
-git clone https://github.com/jsynowiec/node-typescript-boilerplate
-cd node-typescript-boilerplate
+git clone https://github.com/kaarelr/node-typescript-playground
+cd node-typescript-playground
 npm install
-```
-
-or download and unzip current `master` branch:
-
-```sh
-wget https://github.com/jsynowiec/node-typescript-boilerplate/archive/master.zip -O node-typescript-boilerplate
-unzip node-typescript-boilerplate.zip && rm node-typescript-boilerplate.zip
 ```
 
 Now start adding your code in the `src` and unit tests in the `__tests__` directories. Have fun and build amazing things 🚀
